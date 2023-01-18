@@ -12,4 +12,4 @@ So, if you need to solve this, a workaround is to create a linked parameter with
 
 To avoid this, always try to use a condition to throw the listener.
 
-[This is a similar advice from Juanma] (https://github.com/espinosajuanma/slingr-docs/blob/6edb4f8beb8ada373a311957459128d46936ad29/notes/20220831142513/README.md)
+[This is a similar advice from Juanma](https://github.com/espinosajuanma/slingr-docs/blob/6edb4f8beb8ada373a311957459128d46936ad29/notes/20220831142513/README.md)
