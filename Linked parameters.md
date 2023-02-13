@@ -8,7 +8,7 @@ When you create a new action without linked parameters, this flag is also on `tr
 
 This Bug is going to trigger any corresponding listener `On record change` over that entity before executes the Action Script.
 
-So, if you need to solve this, a workaround is to create a linked parameter without information and disable de `Save linked parameters` flag.
+So, if you need to solve this, a workaround is to create a linked parameter without information, disable de `Save linked parameters` flag and delete (if you need) that parameter.
 
 To avoid this, always try to use a condition to throw the listener.
 
